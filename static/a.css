@@ -1,0 +1,111 @@
+.banner-div img{
+    float:left;
+    width: 100%;
+
+}
+.main-div{
+    float:left;
+    width: 100%;
+    
+}
+.left-div{
+    float: left;
+    width:50%;
+   
+}
+
+.left-div img{
+    width: 50%;
+    margin:5% 0% 0% 10%;
+}
+.right-div{
+    float: left;
+    width: 50%;
+    margin:5% 0% 0% 0%;
+   
+   
+
+}
+.right-div img{
+    float: left;
+    width: 80%;
+    margin:0% 0% 0% 10%;
+
+}
+.right-div h1{
+    margin-left: 10%;
+}
+.middle-div{
+    float:left;
+    width:100%
+}
+.middle-div img{
+    float:left;
+    width: 40%;
+    margin: 4% 0% 0% 25%;
+}
+.gallery{
+    float: left;
+    width: 100%;
+    
+}
+.gallery img{
+    display: flexbox;
+    width: 15%;
+    margin:1% 0% 0% 3%;
+}
+.hr-div{
+    width: 100%;
+}
+.hr-div img{
+    width: 50%;
+    margin: 1% 0% 0% 20%;
+    height: 600px;
+}
+.bottom{
+    float: left;
+    width:100%;
+    height:250px;
+   
+    background-color: rgb(62, 83, 83);
+    padding: 0% 0% 0% 3%;
+    text-align: center;
+}
+.address{
+    float: left;
+    width:15%;
+    border: 2px solid aliceblue;
+    color: aliceblue;
+    margin: 3% 0% 0% 11%;
+    padding: 0% 0% 0% 1%;
+    text-align: start;
+}
+.input-div{
+    float: left;
+    width:15%;
+    border: 2px solid aliceblue;
+    margin: 3% 0% 0% 13%;
+    padding: 0% 0% 0% 1%;
+    color:  aliceblue;
+    text-align: start;
+}
+.input-div input{
+   
+    text-align: start;
+}
+.input-div  button{
+    text-align: center;
+    width: 90px;
+    color: blue;
+    margin-left: 15%;
+    margin-top: 2px;
+}
+.content{
+    float: left;
+    width: 15%;
+    border: 4px solid aliceblue;
+    margin: 3% 0% 0% 13%;
+    text-align: start;
+    padding: 0% 0% 0% 1%;
+    color: aliceblue;
+}
